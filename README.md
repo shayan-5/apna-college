@@ -1,4 +1,4 @@
 # apna-college
 First Repository
 <br>
-Author-Shayan Shaikh
+Author-Shayan Shaikh(Apna college)
